@@ -9,3 +9,4 @@ ruby '3.1.2'
 gem "byebug"
 gem "nokogiri"
 gem "open-uri"
+gem "bcrypt"
